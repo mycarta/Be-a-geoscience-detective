@@ -12,7 +12,7 @@
 #### Be-a-geoscience-detective ####
 A notebook demonstrating how to quantitatively QC the reuslts of seismic inversion or other geophysical processes from a paper. 
 
-##### To run the notebook interactively with Binder click on the button below #####
+##### To run the notebook interactively with Binder click on the button below: #####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Be-a-geoscience-detective/master)
 
 
