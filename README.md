@@ -7,7 +7,9 @@
 #### The notebook is for a live lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/). __More details coming soon__.
 
 ### License ###
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The code in this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. The figure used is copyright of the Canadian Society of Exploration Geophysicists.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY Creative Commons License</a>.
+    
+The figure used is copyright of the Canadian Society of Exploration Geophysicists.
 
 #### Be-a-geoscience-detective ####
 A notebook demonstrating how to quantitatively QC the reuslts of seismic inversion or other geophysical processes from a paper. 
