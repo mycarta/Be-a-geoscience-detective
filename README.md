@@ -6,7 +6,7 @@
     
 #### The notebook is for a live lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/). __More details coming soon__.
 
-#### Conda setup #####
+### Conda setup ####
 To create the conda environment for this tutorial run:
 
 ```
