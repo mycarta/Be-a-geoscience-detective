@@ -4,7 +4,7 @@
 
 <font color=green>I was inspired to go back to it after watching a Stanford University webinar titled [How to be a statistical detective](https://learn.stanford.edu/WBN-MED-STATS-On-Demand-2020-02-05_LP-OD-Registration-2020-02-11.html). 
     
-#### The notebook is for a live lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/). __More details coming soon__.
+#### The notebook is for a [lightning talk](https://www.youtube.com/watch?v=NtBDf7d7mwM) I gave at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
 
 ### Conda setup ####
 To create the conda environment for this tutorial run:
