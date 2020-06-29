@@ -4,7 +4,19 @@
 
 <font color=green>I was inspired to go back to it after watching a Stanford University webinar titled [How to be a statistical detective](https://learn.stanford.edu/WBN-MED-STATS-On-Demand-2020-02-05_LP-OD-Registration-2020-02-11.html). 
     
-#### The notebook is for a [lightning talk](https://www.youtube.com/watch?v=NtBDf7d7mwM) I gave at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
+#### I presented this work as a [lightning talk](https://www.youtube.com/watch?v=NtBDf7d7mwM) I gave at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
+
+With the tools I showcase, one can asses the quality of a prediction, from an Inversion or Machine Learning model, against ground truth (for example impedance) , by:
+
+- Calculating the difference between prediction and ground truth at each sample
+- Flagging statistically significant differences based on a user-defined distance (in deviation units) from either the mean difference or the median difference
+<img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/flaged.png width="800">
+
+- Further characterizing the error as percentage within a specific zone, and with a cofindence interval via Boostrapping
+<img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/Lower_zone.png width="800">
+
+<img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/Upper_zone.png width="800">
+                                                                                                              
 
 ### Conda setup ####
 To create the conda environment for this tutorial run:
