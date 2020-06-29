@@ -15,6 +15,8 @@ With the tools I showcase, one can asses the quality of a prediction, from an In
 
 3. Further characterizing the error as percentage within a specific zone, and with a cofindence interval via Boostrapping
 
+<img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/table.png">
+
 <img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/Lower_zone.png">
 
 <img src="https://github.com/mycarta/Be-a-geoscience-detective/blob/master/for%20readme/Upper_zone.png">
