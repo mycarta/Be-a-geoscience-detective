@@ -1,12 +1,12 @@
 ## Be a geoscience detective ##
 
-<font color=green>In this repo I resume work done at the [2018 Geophysics Sprint](https://mycarta.wordpress.com/2019/02/07/geophysics-python-sprint-2018-day-2-and-beyond-part-ii) (orgainzed by Agile Scientific ahead of the Annual SEG conference), which resulted in the [error flag demo notebook](https://github.com/mycarta/in-bruges/blob/master/notebooks/Error_flag_demo.ipynb) in the repo [in-bruges](https://github.com/mycarta/in-bruges).  
+In this repo I resume work done at the [2018 Geophysics Sprint](https://mycarta.wordpress.com/2019/02/07/geophysics-python-sprint-2018-day-2-and-beyond-part-ii) (orgainzed by Agile Scientific ahead of the Annual SEG conference), which resulted in the [error flag demo notebook](https://github.com/mycarta/in-bruges/blob/master/notebooks/Error_flag_demo.ipynb) in the repo [in-bruges](https://github.com/mycarta/in-bruges).  
 
-<font color=green>I was inspired to go back to it after watching a Stanford University webinar titled [How to be a statistical detective](https://learn.stanford.edu/WBN-MED-STATS-On-Demand-2020-02-05_LP-OD-Registration-2020-02-11.html). 
+The inspiration ame after watching [How to be a statistical detective](https://learn.stanford.edu/WBN-MED-STATS-On-Demand-2020-02-05_LP-OD-Registration-2020-02-11.html), a Stanford University webinar.
     
 #### I presented this work as a [lightning talk](https://www.youtube.com/watch?v=NtBDf7d7mwM) I gave at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
 
-I demonstrate how one can asses the quality of multiple predictions against one another (from Inversions and/or Machine Learning models) and against ground truth (for example from geophysical logs), by:
+The notebook demonstrates how one can asses the quality of multiple predictions against one another (from Inversions and/or Machine Learning models) and against ground truth (for example from geophysical logs), by:
 
 1. Calculating the difference between prediction and ground truth at each sample
 2. Flagging statistically significant differences based on a user-defined distance (in deviation units) from either the mean difference or the median difference
