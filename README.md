@@ -6,7 +6,7 @@
     
 #### I presented this work as a [lightning talk](https://www.youtube.com/watch?v=NtBDf7d7mwM) I gave at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/).
 
-With the tools I showcase, one can asses the quality of a prediction, from an Inversion or Machine Learning model, against ground truth (for example impedance) , by:
+I demonstrate how one can asses the quality of multiple predictions against one another (from Inversions and/or Machine Learning models) and against ground truth (for example from geophysical logs), by:
 
 1. Calculating the difference between prediction and ground truth at each sample
 2. Flagging statistically significant differences based on a user-defined distance (in deviation units) from either the mean difference or the median difference
