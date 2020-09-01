@@ -32,12 +32,11 @@ conda env create -f environment.yml
 ### License ###
 The figure used is copyright of the Canadian Society of Exploration Geophysicists.
 
-The rest is open source, and copyright of Matteo Niccoli, 2020
+The rest is open source, and copyright of Matteo Niccoli, 2020:
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Text is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> CC BY Creative Commons License</a>.
 
-Code is Licensed under the [Apache License, Version 2.0]( http://www.apache.org/licenses/LICENSE-2.0)
-
+Code is Licensed under the [Apache License, Version 2.0]( http://www.apache.org/licenses/LICENSE-2.0).
 
 #### Be-a-geoscience-detective ####
 A notebook demonstrating how to quantitatively QC the reuslts of seismic inversion or other geophysical processes from a paper. 
