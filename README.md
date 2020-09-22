@@ -39,7 +39,7 @@ The rest is open source, and copyright of Matteo Niccoli, 2020:
 Code is Licensed under the [Apache License, Version 2.0]( http://www.apache.org/licenses/LICENSE-2.0).
 
 #### Be-a-geoscience-detective ####
-A notebook demonstrating how to quantitatively QC the reuslts of seismic inversion or other geophysical processes from a paper. 
+A notebook demonstrating how to quantitatively QC the results of seismic inversion or other geophysical processes from a paper. 
 
 ##### To run the notebook interactively with Binder click on the button below: #####
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Be-a-geoscience-detective/master)
